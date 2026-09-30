@@ -1,16 +1,11 @@
 ## Academic and Extracurricular Work
 
-My name is Hugh and I'm studying **statistics** at Imperial College London.
+Hi, I'm Hugh.
 
-I am _practicing_ markdown at the moment.
+I'm stuyding **Statistics** at Imperial College London.
 
-I need to create a list:
-1. of multiple items
-2. like this
-3. and this
-4. and this
+I'm interested in the applications of statistics to a _range_ of fields such as finance and machine learning.
 
-I also need to create a hyperlink [like this one that brings to Messi's wiki for some reason](https://en.wikipedia.org/wiki/Lionel_Messi#Notes), hopefully that works.
 <!--
 **Hugomunro123/HugoMunro123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
