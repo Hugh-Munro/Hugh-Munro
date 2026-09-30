@@ -6,6 +6,7 @@ I'm stuyding **Statistics** at Imperial College London.
 
 I'm interested in the applications of statistics to a _range_ of fields such as finance and machine learning.
 
+---------
 _Last Updated: 30/09/2026_
 
 <!--
